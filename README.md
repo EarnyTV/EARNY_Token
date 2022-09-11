@@ -19,4 +19,4 @@ Documentation: https://docs.Earny.TV <br>
 🔔 Join The EarnyTV Community <br>
 Telegram: https://t.me/EarnyTV <br>
 Medium: https://medium.com/@earnytv
-Twitter Official: https://twitter.com/Earny_TV <br> 
+<br>Twitter Official: https://twitter.com/Earny_TV <br> 
